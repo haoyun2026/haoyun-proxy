@@ -1,0 +1,6 @@
+name = "haoyun-proxy"
+main = "worker.js"
+compatibility_date = "2024-11-01"
+
+# 免费版即够个人使用（每日 10 万次请求额度）
+# 如需 readpage 处理大页面不被 CPU 限制，可升级 $5/月 Standard
